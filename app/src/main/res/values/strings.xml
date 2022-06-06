@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Переводчик</string>
+    <string name="translator_nav">Переводчик</string>
+    <string name="favorites_nav">Избранное</string>
+    <string name="translate_button">Перевести</string>
+    <string name="save_button">Сохранить</string>
+</resources>
